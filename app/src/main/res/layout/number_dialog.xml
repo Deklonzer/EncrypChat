@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <NumberPicker
+        android:id="@+id/caesarian_Picker"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/activity_vertical_margin"
+        android:layout_marginBottom="@dimen/activity_vertical_margin"/>
+
+    <Button
+        android:id="@+id/cancel_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/caesarian_Picker"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="98dp"
+        android:layout_toEndOf="@+id/caesarian_Picker"
+        android:text="@string/cancel" />
+
+    <Button
+        android:id="@+id/set_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/cancel_button"
+        android:layout_alignBottom="@+id/cancel_button"
+        android:layout_marginEnd="-78dp"
+        android:layout_marginBottom="3dp"
+        android:layout_toStartOf="@+id/caesarian_Picker"
+        android:text="@string/set" />
+
+</RelativeLayout>

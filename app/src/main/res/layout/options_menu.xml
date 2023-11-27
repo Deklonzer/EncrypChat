@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="@dimen/activity_vertical_margin"
+    android:layout_width="@dimen/activity_horizontal_margin">
+    <item android:id="@+id/new_game"
+        android:icon="@drawable/background"
+        android:title="test 1"
+        android:showAsAction="ifRoom"/>
+    <item android:id="@+id/help"
+        android:icon="@drawable/background"
+        android:title="test 2" />
+</menu>

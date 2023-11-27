@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "725321237367",
+    "firebase_url": "https://galzant.firebaseio.com",
+    "project_id": "galzant",
+    "storage_bucket": "galzant.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725321237367:android:bd9aaf23dd0d801e4f9772",
+        "android_client_info": {
+          "package_name": "com.galzant.encrypchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725321237367-9gbo8mnqr9ce7htju54vq6oorqfleu9f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.galzant.encrypchat",
+            "certificate_hash": "746361361e924576db23985aa78a7344c9fcb9b8"
+          }
+        },
+        {
+          "client_id": "725321237367-lvsk71jtsivpg00oamcimudn7cl1sfuk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj3Z7L-VXHuk3HgrjaKMvevgOEq7VbP-M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "725321237367-lvsk71jtsivpg00oamcimudn7cl1sfuk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ciphers_array">
+        <item>PLAINTEXT</item>
+        <item>ROT13</item>
+        <item>ATBASH</item>
+        <item>CAESARIAN</item>
+        <item>RAIL-FENCE</item>
+    </string-array>
+</resources>
